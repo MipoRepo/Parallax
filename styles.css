@@ -42,14 +42,12 @@ header {
     z-index: -1;
 }
 
-
-  
 .title {
     font-size: 5rem;
     align-items: center;
     color: white;
     text-shadow: 0 0 10px black;
-    display: block !important;
+    display: block;
 }
 .title2 {
     font-size: 3rem;
