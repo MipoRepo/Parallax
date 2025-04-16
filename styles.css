@@ -50,11 +50,11 @@ header {
     display: block;
 }
 .title2 {
-    font-size: 3rem;
-    align-items: center !important;
+    font-size: 2.5rem;
+    align-items: center;
     color: rgb(213, 128, 0);
     text-shadow: 0 0 10px black;
-    display: block !important;
+    display: block;
 }
 .repo {
     width: 9rem;
@@ -62,8 +62,8 @@ header {
     border-radius: 50%;
     border: 0.8rem solid rgba(238, 165, 7, 0.714);
     background-color: rgba(255, 255, 255, 0.188);
-    align-items: center !important;
-    display: block !important;
+    align-items: center;
+    display: block;
     margin: 1rem auto;
 }
 section {
