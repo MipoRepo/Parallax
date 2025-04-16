@@ -19,7 +19,7 @@ header {
     height: 100%;
     transform-style: preserve-3d;
     z-index: -1;
-
+    font-family: sans-serif;
 }
 
 .background {
@@ -45,12 +45,18 @@ header {
   
 .title {
     font-size: 7rem;
-    align-items: center !important;
+    align-items: center;
     color: white;
     text-shadow: 0 0 10px black;
     display: block !important;
 }
-
+.title2 {
+    font-size: 3rem;
+    align-items: center !important;
+    color: rgb(213, 128, 0);
+    text-shadow: 0 0 10px black;
+    display: block !important;
+}
 .repo {
     width: 15rem;
     height: 15rem;
