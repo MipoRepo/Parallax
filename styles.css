@@ -57,8 +57,8 @@ header {
     display: block !important;
 }
 .repo {
-    width: 10rem;
-    height: 10rem;
+    width: 9rem;
+    height: 9rem;
     border-radius: 50%;
     border: 0.8rem solid rgba(238, 165, 7, 0.714);
     background-color: rgba(255, 255, 255, 0.188);
