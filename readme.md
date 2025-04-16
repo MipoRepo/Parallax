@@ -1,6 +1,7 @@
 # Parallax Scrolling Demo
 
 Tämä projekti esittelee yksinkertaisen **parallax scrolling** -efektin HTML:n ja CSS:n avulla. Sivulla käytetään kerroksittaisia kuvia ja syvyysefektejä luomaan visuaalisesti vaikuttava vierityskokemus ilman JavaScriptiä.
+[Demo](https://teal-khapse-bb3384.netlify.app/)
 
 ## 🔧 Rakenne
 
